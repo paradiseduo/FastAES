@@ -1,5 +1,5 @@
 # FastAES
-移动端高性能AES加密
+移动端高性能AES加密，加密效率最高提升900倍
 
 # iOS
 AES 128，CBC，iPhone 13 mini
